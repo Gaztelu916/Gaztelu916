@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaztelu916
-- 👀 I’m interested in racing
+- 👀 I’m interested in racing 🏎️
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
