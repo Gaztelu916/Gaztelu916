@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Gaztelu916
+Software Developer apasionado por la creación de soluciones de software innovadoras y eficientes. Cuento con conocimientos sólidos en lenguajes como Java y C#, así como experiencia en el desarrollo de aplicaciones para diversas plataformas utilizando Unity y Android Studio.
 
-- 🌱 I’m currently learning Java
 
 
 <!---
